@@ -33,12 +33,23 @@
 	<section name="ShowViewDialog">
 		<item value="369" key="DIALOG_WIDTH"/>
 		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
-		<item value="org.eclipse.egit.ui.RepositoriesView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
-		<item value="462" key="DIALOG_HEIGHT"/>
+		<item value="org.eclipse.jdt.callhierarchy.view" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="447" key="DIALOG_HEIGHT"/>
 		<item value="776" key="DIALOG_X_ORIGIN"/>
-		<item value="295" key="DIALOG_Y_ORIGIN"/>
+		<item value="303" key="DIALOG_Y_ORIGIN"/>
 		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+			<item value="org.eclipse.ant.ui.views"/>
+			<item value="org.eclipse.pde.api.tools.ui.views.apitooling.view.category"/>
+			<item value="org.eclipse.team.ccvs.ui"/>
+			<item value="org.eclipse.datatools"/>
+			<item value="org.eclipse.debug.ui"/>
 			<item value="org.eclipse.egit.ui.GitCategory"/>
+			<item value="org.eclipse.help.ui"/>
+			<item value="hibernatecategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java.browsing"/>
+			<item value="org.eclipse.mylyn.ui"/>
 			<item value="org.eclipse.wst.server.ui"/>
 		</list>
 	</section>

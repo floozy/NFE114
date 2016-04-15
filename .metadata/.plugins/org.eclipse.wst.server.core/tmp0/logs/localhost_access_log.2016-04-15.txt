@@ -1,0 +1,9 @@
+127.0.0.1 - - [15/Apr/2016:17:00:30 +0200] "GET / HTTP/1.1" 404 962
+127.0.0.1 - - [15/Apr/2016:17:00:36 +0200] "GET /NFE114/ HTTP/1.1" 200 2487
+127.0.0.1 - - [15/Apr/2016:17:00:36 +0200] "GET /NFE114/bootstrap-3.3.6-dist/css/bootstrap.min.css HTTP/1.1" 200 138678
+127.0.0.1 - - [15/Apr/2016:17:00:36 +0200] "GET /NFE114/bootstrap-3.3.6-dist/css/justified-nav.css HTTP/1.1" 200 2257
+127.0.0.1 - - [15/Apr/2016:17:00:36 +0200] "GET /NFE114/assets/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 519
+127.0.0.1 - - [15/Apr/2016:17:00:36 +0200] "GET /NFE114/assets/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+127.0.0.1 - - [15/Apr/2016:17:00:36 +0200] "GET /NFE114/assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+127.0.0.1 - - [15/Apr/2016:17:00:36 +0200] "GET /NFE114/bootstrap-3.3.6-dist/favicon.ico HTTP/1.1" 200 5430
+127.0.0.1 - - [15/Apr/2016:17:01:14 +0200] "POST /NFE114/CtrIndex HTTP/1.1" 200 4481

@@ -14,12 +14,14 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="NFE114"/>
 			<item value="manageOCandServices"/>
 			<item value="manageServiceOC"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="NFE114"/>
 			<item value="manageOCandServices"/>
 			<item value="manageServiceOC"/>
 		</list>
