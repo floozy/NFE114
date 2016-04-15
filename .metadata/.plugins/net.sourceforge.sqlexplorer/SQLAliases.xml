@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aliases>
+  <alias auto-logon="false" connect-at-startup="false" driver-id="-6" has-no-user-name="false">
+    <name>Local</name>
+    <url>jdbc:mysql://localhost:3306/mydb</url>
+    <folder-filter-expression></folder-filter-expression>
+    <name-filter-expression></name-filter-expression>
+    <schema-filter-expression></schema-filter-expression>
+    <users/>
+  </alias>
+</aliases>
